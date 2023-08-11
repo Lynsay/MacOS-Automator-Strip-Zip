@@ -35,7 +35,7 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Strip-Zip/blob/main
 - Edit the workflow process.  The workflow should receive current files or folders in Finder.app.  You can ignore the "input is" option, along with the image and colour.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/WorkflowProcess.png" alt="Workflow Process" width="400"/>
 
-- Paste the <a href="https://github.com/Lynsay/MacOS-Automator-Strip-Zip/blob/main/PowerPoint-or-Keynote-to-PDF.applescript">AppleScript provided in this repo</a> into the code editor, hit save, and choose a name.
+- Paste the <a href="https://github.com/Lynsay/MacOS-Automator-Strip-Zip/blob/main/MacOS-Strip-Zip.sh">shell script provided in this repo</a> into the code editor, hit save, and choose a name.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/PasteShellScript.png" alt="Paste Shell Script" width="400"/>
 
 - The Quick Action is ready to use and appears on the contextual menu.
