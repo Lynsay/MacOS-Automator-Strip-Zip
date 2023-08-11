@@ -27,10 +27,10 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Strip-Zip/blob/main
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/Automator.png" alt="Automator" width="100"/>
 
 - Select "Quick Action" as the document type.
-<img src="https://raw.githubusercontent.com/Lynsay/MMacOS-Automator-Strip-Zip/main/gfx/SelectQuickAction.png" alt="Select QuickAction" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/SelectQuickAction.png" alt="Select QuickAction" width="400"/>
 
 - Select "Run Shell Script" as the action.
-<img src="https://raw.githubusercontent.com/Lynsay/MMacOS-Automator-Strip-Zip/main/gfx/RunBashScript.png" alt="Run BashScript" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/RunBashScript.png" alt="Run BashScript" width="400"/>
 
 - Edit the workflow process.  The workflow should receive current files or folders in Finder.app.  You can ignore the "input is" option, along with the image and colour.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/WorkflowProcess.png" alt="Workflow Process" width="400"/>
