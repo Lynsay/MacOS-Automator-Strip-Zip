@@ -24,22 +24,22 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Strip-Zip/blob/main
 
 ### ⏳ The Less Quick Method
 - Open Automator.app.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/Automator.png" alt="Automator" width="100"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/Automator.png" alt="Automator" width="100"/>
 
 - Select "Quick Action" as the document type.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/SelectQuickAction.png" alt="Select QuickAction" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MMacOS-Automator-Strip-Zip/main/gfx/SelectQuickAction.png" alt="Select QuickAction" width="400"/>
 
 - Select "Run Shell Script" as the action.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/RunBashScript.png" alt="Run BashScript" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MMacOS-Automator-Strip-Zip/main/gfx/RunBashScript.png" alt="Run BashScript" width="400"/>
 
 - Edit the workflow process.  The workflow should receive current files or folders in Finder.app.  You can ignore the "input is" option, along with the image and colour.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/WorkflowProcess.png" alt="Workflow Process" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/WorkflowProcess.png" alt="Workflow Process" width="400"/>
 
-- Paste the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Converter/blob/main/PowerPoint-or-Keynote-to-PDF.applescript">AppleScript provided in this repo</a> into the code editor, hit save, and choose a name.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/PasteShellScript.png" alt="Paste Shell Script" width="400"/>
+- Paste the <a href="https://github.com/Lynsay/MacOS-Automator-Strip-Zip/blob/main/PowerPoint-or-Keynote-to-PDF.applescript">AppleScript provided in this repo</a> into the code editor, hit save, and choose a name.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/PasteShellScript.png" alt="Paste Shell Script" width="400"/>
 
 - The Quick Action is ready to use and appears on the contextual menu.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/QuickActionMenu.png" alt="Menu Screenshot" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Strip-Zip/main/gfx/QuickActionMenu.png" alt="Menu Screenshot" width="400"/>
 
 ## 📖 References
 The following post from <a href="https://apple.stackexchange.com/users/115523/user3439894">user3439894</a> on the Ask Different Stack Exchange provided the shell script <a href="https://apple.stackexchange.com/questions/288568/how-to-stop-the-hidden-macosx-folder-from-being-created-when-compressing-files">https://apple.stackexchange.com/questions/288568/how-to-stop-the-hidden-macosx-folder-from-being-created-when-compressing-files</a>.
